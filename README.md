@@ -20,3 +20,6 @@
     //获取自定义控件中的地址
     String address = mAdressView.getAddress();
     
+4.设置地址图标是否可见
+
+    mAdressView.setAddressIv(false);
