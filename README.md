@@ -1,7 +1,7 @@
 # addressLib
 自定义的收货地址控件
 
-1.作为依赖添加到项目中
+1.下载后作为依赖添加到项目中
 
     compile project(':addresslib')
 
