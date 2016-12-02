@@ -2,6 +2,7 @@
 自定义的收货地址控件
 
 1.作为依赖添加到项目中
+
     compile project(':addresslib')
 
 2.布局文件中添加控件
